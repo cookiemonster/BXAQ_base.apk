@@ -1,12 +1,12 @@
 # BXAQ
 
 App: BXAQ.apk
-
 File: [Base.apk](https://github.com/cookiemonster/base.apk/raw/master/base.apk)
-
+File date: 01/07/2019
 hash: 6b2d11765d5f1965b9550f7be154875d510f4c371862bf74e53574eb754574be
-
 VT: ![VT](https://raw.githubusercontent.com/cookiemonster/base.apk/master/VT_score_04-07-2019.PNG) 	
+
+Background information: https://github.com/motherboardgithub/bxaq
 
 ## Current functionality
 
